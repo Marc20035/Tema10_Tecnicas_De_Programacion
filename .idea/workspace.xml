@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="609c815c-5438-4abb-9f6b-23409767fe87" name="Changes" comment="Commit 2a">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="609c815c-5438-4abb-9f6b-23409767fe87" name="Changes" comment="Commit 2b">
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio2/Operaciones.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Ejercicio2/Operaciones.java" afterDir="false" />
     </list>
@@ -66,7 +65,7 @@
       <updated>1679135122307</updated>
       <workItem from="1679135123471" duration="64000" />
       <workItem from="1679135197623" duration="542000" />
-      <workItem from="1679135742832" duration="6618000" />
+      <workItem from="1679135742832" duration="7415000" />
     </task>
     <task id="LOCAL-00001" summary="Commit 1">
       <created>1679135728592</created>
@@ -82,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679136724457</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Commit 2b">
+      <created>1679162765669</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1679162765669</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +108,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit 1" />
     <MESSAGE value="Commit 2a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit 2a" />
+    <MESSAGE value="Commit 2b" />
+    <option name="LAST_COMMIT_MESSAGE" value="Commit 2b" />
   </component>
 </project>
